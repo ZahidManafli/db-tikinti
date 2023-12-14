@@ -1,9 +1,192 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "data":[
+      {
+          "image":"6_bucaqli_das.svg",
+          "name":"Hexagon",
+          "size":"250x220x70",
+          "quantity":"21 pcs/sq.m",
+          "number_of_color":"8"
+      },
+      {
+          "image":"qirmizi_boz_kerpicler.svg",
+          "name":"Paving stones",
+          "size":"200x100x50",
+          "quantity":"50 pairs/sq.m",
+          "number_of_color":"8"
+      },
+      {
+          "image":"kvadrat_boz_kerpic.svg",
+          "name":"Square tile",
+          "size":"330x330x60",
+          "quantity":"9 pcs/sq.m",
+          "number_of_color":"8"
+      },
+      {
+          "image":"reel_kerpic.svg",
+          "name":"Reel",
+          "size":"250x160x60",
+          "quantity":"30 pcs/sq.m",
+          "number_of_color":"8"
+      },
+      {
+          "image":"duzbucaqli_boz_kerpic.svg",
+          "name":"Brick",
+          "size":"250x125x60",
+          "quantity":"32 pcs/sq.m",
+          "number_of_color":"8"
+      },
+      {
+          "image":"dalgali_kerpic.svg",
+          "name":"Wave",
+          "size":"250x125x60",
+          "quantity":"32/40 pcs/sq.m",
+          "number_of_color":"8"
+      }       
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "prices":[
+      {
+          "data_for_prices":[
+              {
+                  "color":"Grey",
+                  "price":"470 RUR sq/m"
+              },
+              {
+                  "color":"Red",
+                  "price":"530 RUR sq/m"
+              },
+              {
+                  "color":"Brown",
+                  "price":"590 RUR sq/m"
+              },
+              {
+                  "color":"Yellow",
+                  "price":"on request"
+              },
+              {
+                  "color":"Other colors",
+                  "price":"510 RUR sq/m"
+              }
+          ]
+      },
+      {
+          "data_for_prices":[
+              {
+                  "color":"Grey",
+                  "price":"440 RUR sq/m"
+              },
+              {
+                  "color":"Red",
+                  "price":"500 RUR sq/m"
+              },
+              {
+                  "color":"Brown",
+                  "price":"550 RUR sq/m"
+              },
+              {
+                  "color":"Yellow",
+                  "price":"700 RUR sq/m"
+              },
+              {
+                  "color":"Other colors",
+                  "price":"on request"
+              }
+          ]
+      },
+      {
+          "data_for_prices":[
+              {
+                  "color":"Grey",
+                  "price":"440 RUR sq/m"
+              },
+              {
+                  "color":"Red",
+                  "price":"500 RUR sq/m"
+              },
+              {
+                  "color":"Brown",
+                  "price":"550 RUR sq/m"
+              },
+              {
+                  "color":"Yellow",
+                  "price":"700 RUR sq/m"
+              },
+              {
+                  "color":"Other colors",
+                  "price":"on request"
+              }
+          ]
+      },
+      {
+          "data_for_prices":[
+              {
+                  "color":"Grey",
+                  "price":"440 RUR sq/m"
+              },
+              {
+                  "color":"Red",
+                  "price":"500 RUR sq/m"
+              },
+              {
+                  "color":"Brown",
+                  "price":"550 RUR sq/m"
+              },
+              {
+                  "color":"Yellow",
+                  "price":"700 RUR sq/m"
+              },
+              {
+                  "color":"Other colors",
+                  "price":"on request"
+              }
+          ]
+      },
+      {
+          "data_for_prices":[
+              {
+                  "color":"Grey",
+                  "price":"440 RUR sq/m"
+              },
+              {
+                  "color":"Red",
+                  "price":"500 RUR sq/m"
+              },
+              {
+                  "color":"Brown",
+                  "price":"550 RUR sq/m"
+              },
+              {
+                  "color":"Yellow",
+                  "price":"700 RUR sq/m"
+              },
+              {
+                  "color":"Other colors",
+                  "price":"on request"
+              }
+          ]
+      },
+      {
+          "data_for_prices":[
+              {
+                  "color":"Grey",
+                  "price":"450 RUR sq/m"
+              },
+              {
+                  "color":"Red",
+                  "price":"500 RUR sq/m"
+              },
+              {
+                  "color":"Brown",
+                  "price":"550 RUR sq/m"
+              },
+              {
+                  "color":"Yellow",
+                  "price":"700 RUR sq/m"
+              },
+              {
+                  "color":"Other colors",
+                  "price":"on request"
+              }
+          ]
+      }
+  ]
 }
